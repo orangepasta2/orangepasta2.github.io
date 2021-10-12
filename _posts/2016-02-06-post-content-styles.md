@@ -100,7 +100,7 @@ lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ip
 
 ### Images 
 
-![](github_avatar.png)
+![](./github_avatar.png)
 
 
 ### Styles
