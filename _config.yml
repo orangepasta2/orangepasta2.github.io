@@ -1,7 +1,7 @@
 title: Orange Pasta Blog # The title of the blog
 author: O. Pasta # Your name 
 email: orangepasta2@domain.com # your email shown in the footer
-url: http://orangepasta2.github.io # this is your site's root address.
+url: https://orangepasta2.github.io # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   machining escapades 
 favicon: "./favicon.ico" # set the favicon of the site 
