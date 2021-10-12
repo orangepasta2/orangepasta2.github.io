@@ -106,7 +106,7 @@ Note:
 # eg https://orangepasta2.github.io/junk/2016/02/06/github_avatar.png
 ```
 
-![](/assets/img/github_avatar.png) # is relative to page link
+![](/assets/img/github_avatar.png) 
 
 
 ### Styles
