@@ -100,7 +100,13 @@ lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ip
 
 ### Images 
 
-![](./github_avatar.png)
+```
+Note:
+![](./github_avatar.png) # is relative to link of this page
+# eg https://orangepasta2.github.io/junk/2016/02/06/github_avatar.png
+```
+
+![](/assets/img/github_avatar.png) # is relative to page link
 
 
 ### Styles
