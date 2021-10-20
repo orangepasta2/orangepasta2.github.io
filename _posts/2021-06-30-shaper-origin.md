@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Origin Story: Shape Origin. & Universal Endmill"
+title: "Shaper Origin & Universal Endmill"
 categories: shaper 
 author: "Orange Pasta"
 meta: ""
