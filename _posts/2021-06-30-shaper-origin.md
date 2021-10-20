@@ -6,7 +6,7 @@ author: "Orange Pasta"
 meta: ""
 ---
 
-![](/assets/img/shaper/shaper.jpeg) 
+![](/assets/img/shaper/shaper.png) 
 
 when you upload SVG files to cut with the Shaper Origin, you can group them into 'projects'. The project can have name, description, photos, etc.
 
