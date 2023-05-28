@@ -8,4 +8,4 @@ meta: ""
 
 This motor is very motivated
 
-![](/assets/img/motivated_motor/motivated_motor.jpeg) 
+![](/assets/img/motivated_motor/motivated_motor.png) 
